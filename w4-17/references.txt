@@ -1,0 +1,205 @@
+#For each reaction, the relevant systems' names, the stoichiometry and the reference value are given.
+#The systems' names refer to the geometry files.
+#Negative values in the stoichiometry columns refer to reactants, positive values to products.
+#Example for reaction 2: 1 x (Total Energy of "al") + 3 x (Total Energy of "h") - 1 x (Total Energy of "alh3") = 213.169
+#	Systems	Stoichiometry	Ref.
+1	cyclobutene	c	h			-1	4	6			1001.542
+2	t-butadiene	c	h			-1	4	6			1013.069
+3	cyclobutane	c	h			-1	4	8			1150.396
+4	n-pentane	c	h			-1	5	12			1597.309
+5	benzene	c	h			-1	6	6			1368.800
+6	acetic	c	o	h			-1	2	2	4			803.970
+7	hclo4	h	o	cl			-1	1	4	1			335.412
+8	c2f6	c	f			-1	2	6			791.944
+9	c2cl6	c	cl			-1	2	6			561.305
+10	n2o4	n	o			-1	2	4			471.670
+11	cloocl	cl	o			-1	2	2			149.125
+12	clo3	cl	o			-1	1	3			169.836
+13	hoclo	h	o	cl			-1	1	2	1			204.289
+14	pf5	p	f			-1	1	5			561.565
+15	sf6	s	f			-1	1	6			485.425
+16	oxadiazole	c	o	h	n			-1	2	1	2	2			706.069
+17	dioxetan2one	c	o	h			-1	2	3	2			753.117
+18	dioxetane	c	h	o			-1	2	4	2			750.002
+19	dithiotane	c	h	s			-1	2	4	2			684.391
+20	borole	c	b	h			-1	4	1	5			1057.669
+21	c2cl4	c	cl			-1	2	4			471.760
+22	c2f4	c	f			-1	2	4			590.066
+23	cis-c2f2cl2	c	cl	f			-1	2	2	2			529.019
+24	trans-c2f2cl2	c	cl	f			-1	2	2	2			529.390
+25	cyclopentadiene	c	h			-1	5	6			1181.901
+26	formic-anhydride	o	c	h			-1	3	2	2			757.007
+27	furan	c	o	h			-1	4	1	4			995.125
+28	oxetane	c	h	o			-1	3	6	1			948.139
+29	pyrrole	c	n	h			-1	4	1	5			1072.798
+30	silole	c	h	si			-1	4	6	1			1100.905
+31	thiophene	c	s	h			-1	4	1	4			964.987
+32	beta-lactim	c	h	n	o			-1	3	5	1	1			993.865
+33	clf5	cl	f			-1	1	5			186.794
+34	clf3	cl	f			-1	1	3			128.547
+35	pf3	p	f			-1	1	3			365.599
+36	hoclo2	h	o	cl			-1	1	3	1			273.177
+37	h2no	o	n	h			-1	1	1	2			274.970
+38	nh2oh	n	h	o			-1	1	3	1			359.723
+39	cyclopropane	c	h			-1	3	6			853.968
+40	cyclopropene	c	h			-1	3	4			681.940
+41	ch3ph2	c	p	h			-1	1	1	5			539.303
+42	nh2f	n	h	f			-1	1	2	1			256.470
+43	cclh3	cl	c	h			-1	1	1	3			396.046
+44	clno	cl	n	o			-1	1	1	1			191.958
+45	tetrahedrane	c	h			-1	4	4			793.489
+46	n-butane	c	h			-1	4	10			1302.630
+47	c2cl2	cl	c			-1	2	2			350.586
+48	c2clh3	c	h	cl			-1	2	3	1			544.317
+49	c2clh5	cl	c	h			-1	1	2	5			692.913
+50	c2clh	cl	c	h			-1	1	2	1			378.516
+51	ccl2h2	c	h	cl			-1	1	2	2			371.701
+52	ccl2o	c	o	cl			-1	1	1	2			347.085
+53	ccl3h	h	c	cl			-1	1	1	3			345.416
+54	ccl4	cl	c			-1	4	1			315.419
+55	cf2cl2	c	cl	f			-1	1	2	2			392.237
+56	fno	f	n	o			-1	1	1	1			215.427
+57	ch2clf	c	f	h	cl			-1	1	1	2	1			402.838
+58	chf3	h	c	f			-1	1	1	3			459.564
+59	clcof	c	o	f	cl			-1	1	1	1	1			383.378
+60	formamide	c	o	h	n			-1	1	1	3	1			568.150
+61	cyclobutadiene	c	h			-1	4	4			820.838
+62	allyl	c	h			-1	3	5			766.855
+63	cyclopropyl	c	h			-1	3	5			737.718
+64	h2ccn	c	h	n			-1	2	2	1			512.654
+65	oxirene	c	h	o			-1	2	2	1			456.030
+66	oxirane	o	c	h			-1	1	2	4			651.490
+67	dioxirane	c	h	o			-1	1	2	2			410.010
+68	ketene	c	h	o			-1	2	2	1			533.440
+69	acetaldehyde	c	o	h			-1	2	1	4			677.850
+70	formic	c	h	o			-1	1	2	2			501.870
+71	methanol	c	h	o			-1	1	4	1			513.470
+72	ethanol	h	o	c			-1	6	1	2			811.200
+73	glyoxal	c	h	o			-1	2	2	2			635.050
+74	t-hcoh	c	h	o			-1	1	2	1			322.460
+75	c-hcoh	c	h	o			-1	1	2	1			317.640
+76	hcnh	c	h	n			-1	1	2	1			336.210
+77	hocn	c	n	o	h			-1	1	1	1	1			410.020
+78	honc	h	o	n	c			-1	1	1	1	1			350.110
+79	hnco	c	o	n	h			-1	1	1	1	1			434.680
+80	hcno	c	h	n	o			-1	1	1	1	1			364.910
+81	c-n2h2	h	n			-1	2	2			291.080
+82	hnnn	h	n			-1	1	3			331.720
+83	hnc	h	n	c			-1	1	1	1			298.180
+84	t-hono	o	n	h			-1	2	1	1			312.610
+85	c-hono	o	n	h			-1	2	1	1			312.170
+86	nh2cl	n	h	cl			-1	1	2	1			248.040
+87	t-hooo	o	h			-1	3	1			233.270
+88	c-hooo	o	h			-1	3	1			233.070
+89	ch3f	f	c	h			-1	1	1	3			422.960
+90	ch2f2	c	h	f			-1	1	2	2			437.935
+91	cf4	f	c			-1	4	1			478.740
+92	sih3f	f	si	h			-1	1	1	3			382.740
+93	sif4	f	si			-1	4	1			577.760
+94	c2h3f	c	h	f			-1	2	3	1			573.870
+95	c2h5f	f	c	h			-1	1	2	5			721.480
+96	fccf	f	c			-1	2	2			386.060
+97	hccf	c	h	f			-1	2	1	1			398.450
+98	hcof	c	o	h	f			-1	1	1	1	1			403.720
+99	f2co	o	c	f			-1	1	1	2			420.610
+100	ch2-sing	c	h			-1	1	2			181.440
+101	propane	c	h			-1	3	8			1007.890
+102	propene	c	h			-1	3	6			861.550
+103	propyne	h	c			-1	4	3			705.570
+104	allene	c	h			-1	3	4			704.070
+105	b2h6	b	h			-1	2	6			607.020
+106	bhf2	b	h	f			-1	1	1	2			410.960
+107	bf3	b	f			-1	1	3			470.960
+108	c2h6	c	h			-1	2	6			713.040
+109	h2cn	c	h	n			-1	1	2	1			343.710
+110	nccn	n	c			-1	2	2			501.960
+111	ch2nh2	c	h	n			-1	1	4	1			482.240
+112	ch3nh	c	h	n			-1	1	4	1			474.600
+113	ch3nh2	c	n	h			-1	1	1	5			582.260
+114	cf2	c	f			-1	1	2			258.770
+115	n2h	h	n			-1	1	2			224.820
+116	t-n2h2	h	n			-1	2	2			296.490
+117	n2h4	n	h			-1	2	4			438.240
+118	fo2	f	o			-1	1	2			134.690
+119	foof	f	o			-1	2	2			152.340
+120	alf3	al	f			-1	1	3			430.960
+121	si2h6	si	h			-1	2	6			535.880
+122	p4	p			-1	4			290.570
+123	so2	s	o			-1	1	2			260.580
+124	so3	s	o			-1	1	3			346.890
+125	ocs	o	c	s			-1	1	1	1			335.730
+126	cs2	c	s			-1	1	2			280.760
+127	s2o	s	o			-1	2	1			208.750
+128	s3	s			-1	3			168.350
+129	s4-c2v	s			-1	4			234.330
+130	ccl2	c	cl			-1	1	2			177.320
+131	alcl3	al	cl			-1	1	3			312.640
+132	clcn	cl	c	n			-1	1	1	1			285.420
+133	oclo	cl	o			-1	1	2			128.090
+134	cloo	cl	o			-1	1	2			126.340
+135	cl2o	o	cl			-1	1	2			101.430
+136	bn3pi	b	n			-1	1	1			105.810
+137	cf	c	f			-1	1	1			132.710
+138	ch2c	c	h			-1	2	2			359.920
+139	ch2ch	c	h			-1	2	3			446.080
+140	c2h4	c	h			-1	2	4			564.100
+141	ch2nh	c	n	h			-1	1	1	3			439.450
+142	hco	o	c	h			-1	1	1	1			279.430
+143	h2co	o	c	h			-1	1	1	2			374.650
+144	co2	c	o			-1	1	2			390.140
+145	hno	n	h	o			-1	1	1	1			205.900
+146	no2	n	o			-1	1	2			227.870
+147	n2o	n	o			-1	2	1			270.850
+148	o3	o			-1	3			147.430
+149	hoo	o	h			-1	2	1			175.540
+150	hooh	h	o			-1	2	2			269.080
+151	f2o	f	o			-1	2	1			93.780
+152	hocl	o	h	cl			-1	1	1	1			166.230
+153	ssh	s	h			-1	2	1			165.140
+154	b2	b			-1	2			67.470
+155	bh	b	h			-1	1	1			84.980
+156	bh3	b	h			-1	1	3			281.280
+157	bn	b	n			-1	1	1			105.240
+158	bf	f	b			-1	1	1			182.530
+159	nh	n	h			-1	1	1			83.090
+160	nh2	n	h			-1	1	2			182.580
+161	hcn	h	c	n			-1	1	1	1			313.420
+162	hof	h	o	f			-1	1	1	1			158.660
+163	alh	al	h			-1	1	1			73.580
+164	alh3	al	h			-1	1	3			213.170
+165	alf	al	f			-1	1	1			163.790
+166	alcl	al	cl			-1	1	1			122.620
+167	sih	h	si			-1	1	1			73.930
+168	sih4	h	si			-1	4	1			324.950
+169	sio	si	o			-1	1	1			193.040
+170	sif	f	si			-1	1	1			142.720
+171	cs	c	s			-1	1	1			172.210
+172	h2	h			-1	2			109.500
+173	oh	o	h			-1	1	1			107.200
+174	hf	f	h			-1	1	1			141.640
+175	h2o	o	h			-1	1	2			232.980
+176	ch	c	h			-1	1	1			84.220
+177	ch2-trip	c	h			-1	1	2			190.740
+178	ch3	c	h			-1	1	3			307.870
+179	ch4	h	c			-1	4	1			420.440
+180	cch	c	h			-1	2	1			266.170
+181	c2h2	h	c			-1	2	2			405.540
+182	nh3	n	h			-1	1	3			298.010
+183	c2	c			-1	2			147.030
+184	n2	n			-1	2			228.480
+185	co	c	o			-1	1	1			259.730
+186	cn	c	n			-1	1	1			181.360
+187	no	n	o			-1	1	1			152.750
+188	o2	o			-1	2			120.820
+189	of	o	f			-1	1	1			53.070
+190	f2	f			-1	2			39.050
+191	ph3	p	h			-1	1	3			242.270
+192	hs	s	h			-1	1	1			87.730
+193	h2s	s	h			-1	1	2			183.910
+194	hcl	cl	h			-1	1	1			107.490
+195	so	s	o			-1	1	1			126.470
+196	clo	cl	o			-1	1	1			65.440
+197	clf	cl	f			-1	1	1			62.800
+198	p2	p			-1	2			117.610
+199	s2	s			-1	2			104.250
+200	cl2	cl			-1	2			59.750
