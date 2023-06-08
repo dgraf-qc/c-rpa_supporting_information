@@ -1,3 +1,9 @@
+Taken from Otero-de-la-Roza, A.; Johnson, E. R.; DiLabio, G. A.
+J. Chem. Theory Comput. 2014, 10, 5436–5447;
+Bauzá, A.; Alkorta, I.; Frontera, A.; Elguero, J.
+J. Chem. Theory Comput. 2013, 9, 5201–5210.
+All values are in kcal/mol.
+
 1 01 01a 01b 1 -1 -1 -43.91
 2 02 02a 02b 1 -1 -1 -42.61
 3 03 03a 03b 1 -1 -1 -46.42
