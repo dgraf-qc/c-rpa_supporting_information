@@ -1,8 +1,8 @@
 Taken from Curtiss, L. A..; Raghavachari, K.; Trucks G. W.; Pople, J. A. J.
-Chem. Phys. 1991, 94, 7221-7230
+Chem. Phys. 1991, 94, 7221-7230.
 L. Goerigk, A. Hansen, C. Bauer, S. Ehrlich, A. Najibi, S. Grimme 
 Phys. Chem. Chem. Phys., 2017, 19, 32184.
-All values are in kcal/mol
+All values are in kcal/mol.
 
 1	h		-1		314.9
 2	li+	li	1	-1	123.3

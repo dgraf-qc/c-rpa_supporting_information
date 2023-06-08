@@ -1,6 +1,6 @@
 Taken from Karton, A.; Sylvetsky, N.; Martin, J. M. L. 
-J. Comput. Chem. 2017, 38, 2063–2075
-All values are in kcal/mol
+J. Comput. Chem. 2017, 38, 2063–2075.
+All values are in kcal/mol.
 
 1	cyclobutene	c	h			-1	4	6			1001.542
 2	t-butadiene	c	h			-1	4	6			1013.069
