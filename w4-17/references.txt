@@ -1,8 +1,7 @@
-#For each reaction, the relevant systems' names, the stoichiometry and the reference value are given.
-#The systems' names refer to the geometry files.
-#Negative values in the stoichiometry columns refer to reactants, positive values to products.
-#Example for reaction 2: 1 x (Total Energy of "al") + 3 x (Total Energy of "h") - 1 x (Total Energy of "alh3") = 213.169
-#	Systems	Stoichiometry	Ref.
+Taken from Karton, A.; Sylvetsky, N.; Martin, J. M. L. 
+J. Comput. Chem. 2017, 38, 2063–2075
+All values are in kcal/mol
+
 1	cyclobutene	c	h			-1	4	6			1001.542
 2	t-butadiene	c	h			-1	4	6			1013.069
 3	cyclobutane	c	h			-1	4	8			1150.396
