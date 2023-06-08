@@ -1,8 +1,6 @@
-#For each reaction, the relevant systems' names, the stoichiometry and the reference value are given.
-#The systems' names refer to the geometry files.
-#Negative values in the stoichiometry columns refer to reactants, positive values to products.
-#Example for reaction 5: 1 x (Total Energy of "he") + 1 x (Total Energy of "he+") - 1 x (Total Energy of "he2+") = 56.9
-#	Systems	Stoichiometry	Ref.
+Taken from L. Goerigk; S. Grimme, J. Chem. Theory Comput., 2010, 6, 107-126
+All values are in kcal/mol
+
 1	h	h2+_1.0		1	-1		64.4
 2	h	h2+_1.25		1	-1		58.9
 3	h	h2+_1.5		1	-1		48.7
