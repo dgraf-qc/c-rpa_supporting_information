@@ -1,8 +1,8 @@
-#For each reaction, the relevant systems' names, the stoichiometry and the reference value are given.
-#The systems' names refer to the geometry files.
-#Negative values in the stoichiometry columns refer to reactants, positive values to products.
-#Example for reaction 1: -1 x (Total Energy of "ethene") - 1 x (Total Energy of "butadiene") + 1 x (Total Energy of "P1/$A") = -45.4
-#	Systems	Stoichiometry	Ref.
+Taken from A. Karton, private communication;
+L. Goerigk, A. Hansen, C. Bauer, S. Ehrlich, A. Najibi, S. Grimme 
+Phys. Chem. Chem. Phys., 2017, 19, 32184.
+All values are in kcal/mol.
+
 1	ethene	butadiene	P1	-1	-1	1	-45.4
 2	ethine	butadiene	P2	-1	-1	1	-60.8
 3	ethene	cpdiene	P3	-1	-1	1	-29.9
