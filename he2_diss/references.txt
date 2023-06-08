@@ -1,3 +1,7 @@
+Taken from van Mourik, T.; Dunning, J., Thom H. 
+J. Chem. Phys. 1999, 111, 9248–9258.
+All values are in kcal/mol.
+
 1     36     01     -2     1     0.0035171968154022286
 2     36     02     -2     1     0.002724666110476923
 3     36     03     -2     1     0.002100459867278149
